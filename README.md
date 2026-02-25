@@ -5,6 +5,9 @@
 ## 1. Project Overview
 Developed a premium, single-page personal website for **Yi Zhen Hung** featuring a modern dark-mode aesthetic, real-time clock, and interactive elements.
 
+### Visual Preview
+![Personal Homepage Preview](https://github.com/yizhenhong9-alt/DRL-personal-page/blob/main/homepage_preview.png?raw=true)
+
 ## 2. Technical Implementation
 ### Frontend Infrastructure
 - **HTML5:** Implemented semantic structure with SEO-friendly meta tags and optimized heading hierarchy.
